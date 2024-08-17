@@ -32,7 +32,7 @@ The Main class is the entry point of the application, integrating all components
 
 # Class Diagram
 
-[Imgur](https://i.imgur.com/stGVOOL.png)
+![image](https://imgur.com/stGVOOL.png)
 
 # Statement Output
 ```bash
