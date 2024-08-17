@@ -1,0 +1,10 @@
+Account Number: 56709432
+Account Holder: Aditya Nair
+Current Balance: ₹8000.0
+Statement generated on: 17-08-2024 23:31:50
+
+Transaction History:
+Deposit: ₹3000.0 on 17-08-2024 23:31:11
+Deposit: ₹3000.0 on 17-08-2024 23:31:11
+Transfer In: ₹3000.0 on 17-08-2024 23:31:11
+

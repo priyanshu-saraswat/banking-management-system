@@ -1,0 +1,20 @@
+Account Number: 65478345
+Account Holder: Priyanshu Saraswat
+Current Balance: ₹7250.0
+Statement generated on: 17-08-2024 23:31:50
+
+Transaction History:
+Withdrawal: ₹1000.0 on 17-08-2024 23:29:13
+Withdrawal: ₹1000.0 on 17-08-2024 23:29:13
+Deposit: ₹2500.0 on 17-08-2024 23:29:24
+Deposit: ₹2500.0 on 17-08-2024 23:29:24
+Withdrawal: ₹250.0 on 17-08-2024 23:29:37
+Withdrawal: ₹250.0 on 17-08-2024 23:29:37
+Withdrawal: ₹500.0 on 17-08-2024 23:29:48
+Withdrawal: ₹500.0 on 17-08-2024 23:29:48
+Withdrawal: ₹3000.0 on 17-08-2024 23:31:11
+Withdrawal: ₹3000.0 on 17-08-2024 23:31:11
+Transfer Out: ₹3000.0 on 17-08-2024 23:31:11
+Deposit: ₹4500.0 on 17-08-2024 23:31:48
+Deposit: ₹4500.0 on 17-08-2024 23:31:48
+
